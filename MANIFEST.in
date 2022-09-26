@@ -1,0 +1,13 @@
+recursive-include pattern *.js
+recursive-include pattern.text.de *.txt *.xml *.slp
+recursive-include pattern.text.en *.txt *.xml *.slp
+recursive-include pattern.text.en *.txt *.xml *.slp
+recursive-include pattern.text.en.wordlist *.txt
+recursive-include pattern.text.en.wordnet *.txt dict/*
+recursive-include pattern.text.ru *.txt *.xml *.slp
+recursive-include pattern.text.ru.wordlist *.txt
+recursive-include pattern.text.es *.txt *.xml
+recursive-include pattern.text.fr *.txt *.xml
+recursive-include pattern.text.it *.txt *.xml
+recursive-include pattern.text.nl *.txt *.xml
+
